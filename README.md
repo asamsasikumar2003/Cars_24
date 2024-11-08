@@ -10,3 +10,4 @@ The goal of this project is to analyze and predict car prices based on various f
 - Provide actionable insights and recommendations based on the analysis results to optimize car pricing strategies.
 
 # Website Overview :
+![image](https://github.com/user-attachments/assets/e1c10c54-0124-4ba2-84a1-9d4311cd9e3a)
