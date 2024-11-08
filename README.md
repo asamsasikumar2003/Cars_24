@@ -1,13 +1,12 @@
-# Website Overview :
-![image](https://github.com/user-attachments/assets/e1c10c54-0124-4ba2-84a1-9d4311cd9e3a)
-
-- Website Link : https://www.cars24.com/
-
-
 # CARS24 Car Price Analysis and Prediction
 
 ## Project Overview
 This project involves web scraping data from the CARS24 website, performing exploratory data analysis (EDA), and building predictive models to determine key factors that influence car prices. The insights derived aim to guide buyers in making informed purchasing decisions based on car features and pricing trends.
+
+# Website Overview :
+![image](https://github.com/user-attachments/assets/e1c10c54-0124-4ba2-84a1-9d4311cd9e3a)
+
+- Website Link : https://www.cars24.com/
 
 ## Table of Contents
 1. [Objective](#objective)
@@ -88,9 +87,3 @@ Data was scraped from [CARS24](https://www.cars24.com/) using:
 ## Conclusion
 This project reveals key insights into the used car market on CARS24, helping buyers make data-driven choices. Maruti and Hyundai cars are highly popular, with certain newer models holding value well in the resale market. First-owner, petrol-powered cars tend to offer the best value within the price range.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-Feel free to customize further to align with your specific GitHub repository and project structure.
