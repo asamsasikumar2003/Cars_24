@@ -29,11 +29,6 @@ The goal of this project is to analyze and predict car prices on the CARS24 plat
 - **Fuel Type**
 - **Ownership Status**
 
-## Team Members
-- **B. Vamsi Krishna:** B.Tech in Computer Science and Engineering, recently completed Data Analytics course at Innomatics Research Labs.
-- **D. V. Sriram:** B.Tech in Electrical and Electronics Engineering, recently completed Data Analytics course at Innomatics Research Labs.
-- **A. Sasi Kumar:** B.Tech in Electrical and Electronics Engineering, recently completed Data Analytics course at Innomatics Research Labs.
-
 ## About the Dataset
 The dataset contains information scraped from the CARS24 website and includes 500 records with the following columns:
 - **Brand** - Car manufacturer
